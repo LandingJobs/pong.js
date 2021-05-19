@@ -350,3 +350,5 @@ var PONG = (function(){
 
     return { start: start, close: close };
 })();
+
+module.exports = PONG;
